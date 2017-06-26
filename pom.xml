@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>naumenko.com</groupId>
-  <artifactId>rozetka-task</artifactId>
+  <artifactId>rozetka-com</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>rozetka-task</name>
+  <name>rozetka-com</name>
   <url>http://maven.apache.org</url>
 
   <properties>
